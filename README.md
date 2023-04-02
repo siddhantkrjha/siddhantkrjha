@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddhantkrjha
-- 👀 I’m interested in ... web development , game developer
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...web devlopment 
+- 👀 I’m interested in ... Web Development ,Ethical Hacker
+- 🌱 I’m currently learning ...Ethical hacking
+- 💞️ I’m looking to collaborate on ...Ethical Hacking
 - 📫 How to reach me ... you mail me on siddhantkumar345@hotmail.com
 
 <!---
