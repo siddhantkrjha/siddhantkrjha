@@ -1,27 +1,61 @@
-👋 Hello! I’m Siddhant Kr Jha (@siddhantkrjha)
+Hi, I'm Siddhant Jha 👋
 
-I’m a passionate developer with a keen interest in Software Development, focusing on Python Development, AI & Machine Learning Engineering, and Full-Stack Web Development. I believe in continuously advancing my skills and applying them to solve real-world problems.
+Independent Developer | Open Source Builder | AI & Full-Stack Developer
 
-👀 What I'm Interested In:
+I build practical software, reusable developer resources, and AI-powered tools designed to solve real-world problems.
 
-Software Development: Building scalable, efficient, and reliable software solutions.
-Python Development: Writing clean, modular, and maintainable code to solve complex challenges.
-AI & ML Engineering: Designing and implementing machine learning models, natural language processing, and intelligent systems.
-Full-Stack Web Development: Creating robust web applications using modern frameworks and technologies across both front-end and back-end.
+My focus is on creating projects that developers, startups, agencies, and businesses can understand, customize, and build upon.
 
-🌱 Currently Learning:
+I'm continuously exploring better ways to turn ideas into reliable, maintainable software.
 
-Advanced Problem-Solving Techniques: I am continuously working on enhancing my problem-solving abilities, exploring algorithms, and refining my coding strategies across various domains.
-New Tools & Technologies: I'm staying up to date with the latest trends in AI, machine learning, and full-stack development to ensure I deliver cutting-edge solutions.
+What I Build
 
-💡 What I Bring to the Table:
+Website Templates: Responsive, customizable website starters for different industries and business needs.
 
-A strong foundation in Python programming, with experience building API-driven applications, AI models, and web platforms.
-Proficiency in cloud-based services and containerization for deploying scalable and secure applications.
-Practical knowledge of data science and machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.
-Hands-on experience with vector databases like Pinecone and integrating them with generative AI models (e.g., OpenAI, GPT models).
+SaaS Starter Kits: Reusable foundations for dashboards, authentication, databases, and application workflows.
 
-📫 How to Reach Me:
-You can reach me via email at siddhantkumar345@hotmail.com. I’m always open to discussing new opportunities, collaborations, or sharing knowledge on software development, AI, and web technologies.
+AI & Automation Tools: Practical AI applications, intelligent agents, RAG systems, and workflow automation.
 
-Feel free to explore my repositories and projects, and let's connect if you share similar interests!
+Developer Utilities: Python tools, API integrations, testing resources, and reusable components.
+
+Technical Skills
+
+Languages: Python, JavaScript, TypeScript
+
+Frontend: React, Next.js, HTML, CSS
+
+Backend: FastAPI, Flask, REST APIs
+
+Databases: PostgreSQL, Supabase, Firebase
+
+AI & Machine Learning: LLM Integrations, RAG, LangChain, AI Agents, Machine Learning
+
+Tools & Platforms: Git, GitHub, Docker, Vercel
+
+Open-Source Philosophy
+
+I believe useful software should be accessible, understandable, and easy to improve.
+
+My projects aim to follow these principles:
+
+Clear documentation and setup instructions.
+
+Maintainable code and sensible project structures.
+
+Honest descriptions of features, limitations, and project status.
+
+Secure configuration practices with no exposed credentials.
+
+Appropriate licensing and third-party attribution.
+
+Welcoming contributions and constructive feedback.
+
+Let's Connect
+
+I'm open to connecting with developers, founders, agencies, and people building useful technology.
+
+LinkedIn: Connect with me
+
+GitHub: @siddhantkrjha
+
+Building useful things, learning continuously, and contributing to open source.
